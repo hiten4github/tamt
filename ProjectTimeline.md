@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://tamt.googlecode.com/hg/admin/devcal.xml" width="900" height="600" /&gt;
